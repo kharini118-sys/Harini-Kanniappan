@@ -1,10 +1,22 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Harini%20K&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20ML%20Engineer%20%7C%20Building%20Intelligent%20Solutions%20for%20Real-World%20Problems&descAlignY=62&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Harini%20Kanniappan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20ML%20Engineer%20%7C%20Building%20Intelligent%20Solutions%20for%20Real-World%20Problems&descAlignY=62&descSize=16"/>
 </p>
 
 <h1 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Engineer;Computer+Science+Student+(AI%26ML);Building+AI-Powered+Applications;Always+Learning+Always+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hello+There!+I'm+Harini+Kanniappan;AI+%26+Machine+Learning+Engineer;Computer+Science+Student+(AI%26ML);Building+AI-Powered+Applications;Always+Learning+Always+Building" alt="Typing SVG" />
 </h1>
+
+<h3 align="center">
+Hello, I'm Harini Kanniappan 👋
+</h3>
+
+<p align="center">
+AI & Machine Learning Enthusiast | Python Developer | Future AI Engineer
+</p>
+
+<p align="center">
+Passionate about building intelligent systems using Artificial Intelligence, Machine Learning, Deep Learning, NLP, and Computer Vision. Currently pursuing B.E. in Computer Science & Engineering (AI & ML) while developing innovative projects that bridge technology and real-world impact.
+</p>
 
 <p align="center">
 <a href="https://komarev.com/ghpvc/?username=kharini118-sys">
@@ -22,7 +34,7 @@
 class Harini:
 
     def __init__(self):
-        self.name = "Harini K"
+        self.name = "Harini Kanniappan"
         self.location = "Chennai, India"
         self.degree = "B.E CSE (Artificial Intelligence & Machine Learning)"
         
@@ -253,9 +265,15 @@ me = Harini()
 
 ---
 
-# 💡 Fun Fact
+# 💡 Motivation
 
-> "Technology becomes meaningful when it solves real-world problems. I love building AI-powered solutions that create impact."
+<p align="center">
+<i>"Dream big, start small, stay consistent, and let your work speak louder than your doubts."</i>
+</p>
+
+<p align="center">
+Every project, every bug, every late-night learning session is one step closer to becoming the engineer I dream to be.
+</p>
 
 ---
 
@@ -264,4 +282,3 @@ me = Harini()
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
-
